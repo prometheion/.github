@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 200" width="816" height="200" role="img" aria-label="Prometheion">
+  <title>Prometheion</title>
+  <defs>
+    <clipPath id="cap-band"><rect x="-10" y="0" width="1071" height="100"/></clipPath>
+  </defs>
+  <svg x="12" y="12" width="176" height="176" viewBox="0 0 512 512">
+    <defs>
+    <radialGradient id="ha-a-glow" cx="256" cy="290" r="256" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a200c"/>
+      <stop offset="0.55" stop-color="#22160f"/>
+      <stop offset="1" stop-color="#17110d"/>
+    </radialGradient>
+  </defs>
+  <circle cx="256" cy="256" r="256" fill="url(#ha-a-glow)"/>
+  <g transform="translate(0 -12)">
+    <!-- the altar fire -->
+    <path fill="#e2401f" d="M256,84 C268,140 334,170 354,236 C374,300 344,360 288,374 C278,377 266,378 256,378 C246,378 234,377 224,374 C168,360 138,300 160,240 C170,212 188,196 204,178 C202,208 210,232 228,244 C218,184 228,132 256,84 Z"/>
+    <path fill="#f7901e" d="M260,168 C270,212 320,238 326,290 C332,340 298,372 256,372 C214,372 182,342 188,296 C192,264 214,246 226,220 C230,246 238,260 250,266 C244,232 248,198 260,168 Z"/>
+    <path fill="#ffd15c" d="M257,246 C266,280 298,300 298,334 C298,358 280,374 256,374 C232,374 214,358 214,334 C214,302 246,284 257,246 Z"/>
+    <!-- the altar: cornice, block, two steps -->
+    <path fill="#ecd3ae" stroke="#ecd3ae" stroke-width="4" stroke-linejoin="round" d="M166,386 H346 V400 H324 V426 H340 V440 H360 V450 H152 V440 H172 V426 H188 V400 H166 Z"/>
+  </g>
+  </svg>
+  <g transform="translate(232.00 75.00) scale(0.54)" fill="none" stroke="#1d1712" stroke-width="13" stroke-linejoin="miter" stroke-miterlimit="10">
+    <g clip-path="url(#cap-band)">
+        <path transform="translate(0.00 0)" d="M6.5,120 V-20"/>
+        <path transform="translate(0.00 0)" d="M6.5,6.5 H36 A21.5,21.5 0 0 1 36,49.5 H6.5"/>
+        <path transform="translate(94.00 0)" d="M6.5,120 V-20"/>
+        <path transform="translate(94.00 0)" d="M6.5,6.5 H36 A21.5,21.5 0 0 1 36,49.5 H6.5"/>
+        <path transform="translate(94.00 0)" d="M34,49.5 L58.2,118.0"/>
+        <path transform="translate(305.00 0)" d="M6.5,120 V0 L52,100 L97.5,0 V120"/>
+        <path transform="translate(439.00 0)" d="M6.5,-20 V120"/>
+        <path transform="translate(439.00 0)" d="M6.5,6.5 H60"/>
+        <path transform="translate(439.00 0)" d="M6.5,50 H54"/>
+        <path transform="translate(439.00 0)" d="M6.5,93.5 H60"/>
+        <path transform="translate(521.00 0)" d="M0,6.5 H66"/>
+        <path transform="translate(521.00 0)" d="M33,-20 V120"/>
+        <path transform="translate(609.00 0)" d="M6.5,-20 V120"/>
+        <path transform="translate(609.00 0)" d="M71.5,-20 V120"/>
+        <path transform="translate(609.00 0)" d="M6.5,50 H71.5"/>
+        <path transform="translate(717.00 0)" d="M6.5,-20 V120"/>
+        <path transform="translate(717.00 0)" d="M6.5,6.5 H60"/>
+        <path transform="translate(717.00 0)" d="M6.5,50 H54"/>
+        <path transform="translate(717.00 0)" d="M6.5,93.5 H60"/>
+        <path transform="translate(807.00 0)" d="M6.5,-20 V120"/>
+        <path transform="translate(967.00 0)" d="M6.5,120 V0 L77.5,100 V-20"/>
+    </g>
+    <g>
+        <path transform="translate(182.00 0)" d="M50.5,5.3 a44.7,44.7 0 1 0 0.0001,0 Z"/>
+        <path transform="translate(844.00 0)" d="M50.5,5.3 a44.7,44.7 0 1 0 0.0001,0 Z"/>
+    </g>
+  </g>
+</svg>
